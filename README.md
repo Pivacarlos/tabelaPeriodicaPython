@@ -19,9 +19,9 @@
 </h3>
 
 ## ✔️​ Execução da tabela
-```sh
+
 - python main.py
-```
+
 ## 🙋 Autores 
 
 🙋 **Carlos Eduardo Piva**
